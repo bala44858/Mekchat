@@ -60,9 +60,12 @@
 
 } */
 
+/* resposive design for counter bg words */
 
 
+/*  */
 /* slide2 desifn end  */
+
 .carousel-item1 {
     background-image: url(https://wallpaperaccess.com/full/2083613.jpg);
     /* background-image: url(/home/msbala/websites/mekchat/images/slide1.jpg); */
@@ -3914,6 +3917,15 @@ span.teaser {
     line-height: 70px;
     letter-spacing: 1rem;
 }
+@media  (max-width: 650px) {
+    .wm {
+        
+    font-size: 100px;
+    /* color: rgb(228, 8, 8); */
+    transform: scale(1);
+    }
+  }
+
 
 
 .text-light {
