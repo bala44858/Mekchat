@@ -54,12 +54,15 @@
 
 /* me */
 .carousel-item1 {
-    background-image: url(https://wallpaperaccess.com/full/2083613.jpg);
+    /* background-image: url(https://wallpaperaccess.com/full/2083613.jpg); */
+    background-image: url(/home/msbala/websites/mekchat/images/slide1.jpg);
+
 
     /* cursor  */
 
    
 }
+
 .circle {
     width: 20px;
     height: 20px;
