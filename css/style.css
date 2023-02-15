@@ -53,9 +53,19 @@
 /* ================================================== */
 
 /* me */
+
+/* slide 2 design  */
+
+/* .slide2-word {
+
+} */
+
+
+
+/* slide2 desifn end  */
 .carousel-item1 {
-    /* background-image: url(https://wallpaperaccess.com/full/2083613.jpg); */
-    background-image: url(/home/msbala/websites/mekchat/images/slide1.jpg);
+    background-image: url(https://wallpaperaccess.com/full/2083613.jpg);
+    /* background-image: url(/home/msbala/websites/mekchat/images/slide1.jpg); */
 
 
     /* cursor  */
@@ -63,13 +73,13 @@
    
 }
 
-.circle {
+/* .circle {
     width: 20px;
     height: 20px;
     border: 1px solid rgb(241, 226, 226);
     position: absolute;
     border-radius: 15px;
-}
+} */
 /* me */
 
 html {
