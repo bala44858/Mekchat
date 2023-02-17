@@ -75,6 +75,9 @@
 
    
 }
+.O-red:hover .co-name{
+    color: red;
+}
 
 /* .circle {
     width: 20px;
