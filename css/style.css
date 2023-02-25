@@ -53,6 +53,21 @@
 /* ================================================== */
 
 /* me */
+/* logo section */
+
+.logosection {
+
+      display: flex;
+      justify-content: center;
+
+}
+.logosection img {
+    width: 150px !important;
+    height: 150px !important;
+    margin: 40px;
+}
+
+/* mainlogo resmoviev  */
 @media  (max-width: 995px) {
     #mekchat23logo{
         height: 59px !important;
