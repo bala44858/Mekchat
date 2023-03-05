@@ -127,7 +127,16 @@
   
 /* animation ended */
 
-
+/*  reseponsive for events head line for below 550px */
+@media  (max-width: 555px) {
+    .eveNameResponsive{
+        font-size: 30px;
+    }
+    .eveNameResponsiveBg{
+        font-size: 70px !important;
+    }
+    
+  }
 /* mainlogo resmoviev  */
 @media  (max-width: 995px) {
     #mekchat23logo{
