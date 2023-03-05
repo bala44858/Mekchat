@@ -146,6 +146,22 @@
     
   }
 
+  /* hover for events  */
+  .menu3 :after {
+    content: "";
+    position: absolute;
+    width: 0%;    
+    height: 1px;
+    display: block;
+    transition: all 0.3s ease;
+    bottom: 25%;
+  }
+  .menu3 :hover::after {
+    width: 75%;
+    height: 3px;
+    background-color: #ec0808;
+  }
+ /* ended-hover for events  */
 
 /* slide 2 design  */
 
