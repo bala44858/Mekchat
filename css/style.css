@@ -65,7 +65,7 @@
 .logosection {
 
       display: flex;
-      justify-content: center;
+      justify-content: space-between;
 
 }
 .logosection img {
@@ -137,7 +137,11 @@
 /*  reseponsive for events head line for below 550px */
 @media  (max-width: 555px) {
     .eveNameResponsive{
-        font-size: 30px;
+        font-size: 30px !important;
+    }
+    .mainheadlineResponsive{
+        font-size: 25px !important;
+
     }
     .eveNameResponsiveBg{
         font-size: 70px !important;
