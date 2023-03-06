@@ -53,6 +53,12 @@
 /* ================================================== */
 
 /* me */
+
+/* font changes  */
+ .cutomfont{
+    font-family: adamina !important;
+ }
+
 /* logo section */
 
 .logosection {
@@ -215,6 +221,7 @@ html {
 
 body {      
     font-family: var(--body-font);
+    /* font-family: var(); */
     font-size: 16px;
     font-weight: 300;
     color: #404040;
