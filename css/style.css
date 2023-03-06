@@ -91,9 +91,21 @@
     overflow: hidden;
     padding: 2rem;
   }
+  .animate-borderHeadline {
+    position: relative;
+    /* background-color: transparent; */
+    z-index: 0;
+    text-align: center;
+    /* width: fit-content; */
+    height: fit-content;
+    margin: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    /* padding: 2rem; */
+  }
         
   
-    .animate-border::before {
+    .animate-border::before ,.animate-borderHeadline::before{
       content: '';
       position: absolute;
       z-index: -2;
@@ -108,7 +120,7 @@
       animation: rotate 4s linear infinite;
     }
     
-    .animate-border::after {
+    .animate-border::after ,.animate-borderHeadline ::after {
       content: '';
       position: absolute;
       z-index: -1;
