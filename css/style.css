@@ -71,7 +71,7 @@
 .logosection img {
     width: 150px !important;
     height: 150px !important;
-    margin: 40px;
+    margin: 10px;
 }
 /* border animations */
   
@@ -133,6 +133,11 @@
   }
   
 /* animation ended */
+
+/* responsive logo align for laptop screen  */
+/* @media  (max-width: 885px) {
+
+} */
 
 /*  reseponsive for events head line for below 550px */
 @media  (max-width: 555px) {
