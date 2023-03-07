@@ -176,6 +176,13 @@
     }
     
   }
+  /* center mekchat logo */
+  #centermekchat{
+    width: 200px;
+    height: 100px;
+  }
+
+  /* end */
 
   /* hover for events  */
   .menu3 :after {
