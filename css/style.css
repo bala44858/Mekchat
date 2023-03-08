@@ -53,6 +53,19 @@
 /* ================================================== */
 
 /* me */
+/* schedule design */
+table,tr , td{
+    text-align: center;
+    border: #fffefe 2px solid ;
+}
+th{
+    color: red;
+}
+table{
+    box-shadow: 0px 0px 50px 0px #f10707;
+
+}
+
 
 /* font changes  */
  .cutomfont{
