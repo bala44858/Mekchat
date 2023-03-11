@@ -53,6 +53,9 @@
 /* ================================================== */
 
 /* me */
+
+/* rc img design  */
+
 /* schedule design */
 table,tr , td{
     text-align: center;
@@ -167,6 +170,14 @@ table{
 
 } */
 
+/* rc img responsive */
+@media  (max-width: 400px) {
+    #rcimg{
+        width: 350px;
+    }
+    
+}
+
 /*  reseponsive for events head line for below 550px */
 @media  (max-width: 555px) {
     .eveNameResponsive{
@@ -181,6 +192,9 @@ table{
     }
     
   }
+
+
+
 /* mainlogo resmoviev  */
 @media  (max-width: 995px) {
     #mekchat23logo{
