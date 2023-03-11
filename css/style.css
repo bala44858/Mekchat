@@ -175,6 +175,9 @@ table{
     #rcimg{
         width: 350px;
     }
+    .below400px, #below400px{
+         font-size: 20px !important;
+    }
     
 }
 
